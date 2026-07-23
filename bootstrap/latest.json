@@ -1,0 +1,11 @@
+{
+  "schema": 2,
+  "status": "encrypted-poller-ready",
+  "project_root": "/Users/Matt/Documents/Android GPT OS",
+  "branch": "codex/gptos-android17",
+  "commit": "586d812",
+  "poller": "/Users/Matt/bin/gptos-chat-poller.sh",
+  "requests_encrypted": true,
+  "responses_encrypted": true,
+  "source_public": false
+}
