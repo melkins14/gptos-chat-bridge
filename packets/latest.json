@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "run_id": "20260723T183742Z-03f779",
+  "created_at": "2026-07-23T18:37:49.172913+00:00",
+  "exit_code": 0,
+  "command": "printf \"bridge-ready\\n\"; git branch --show-current; git rev-parse --short HEAD",
+  "output": "=== GPTOS COMMAND ===\nprintf \"bridge-ready\\n\"; git branch --show-current; git rev-parse --short HEAD\n=== OUTPUT ===\nbridge-ready\ncodex/gptos-android17\n586d812\n",
+  "output_sha256": "265a65b0079e185bb6d07c12ca374fd1426fed4cf603f71c3f6523ccfc65520d",
+  "source_code_included": false,
+  "secrets_redacted": true
+}
