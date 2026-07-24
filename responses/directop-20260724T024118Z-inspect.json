@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "request_id": "directop-20260724T024118Z-inspect",
+  "created_at": "2026-07-24T02:41:18Z",
+  "exit_code": 0,
+  "cipher_path": "responses/directop-20260724T024118Z-inspect.cms.b64",
+  "cipher_sha256": "517436cbc3fe567863c7e64a4070ea8bdf756ca11447a2db5fc28503950f76a3",
+  "encrypted": true,
+  "transport": "triggercmd-parameter"
+}
