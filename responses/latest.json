@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "request_id": "directop-20260724T024528Z-status",
-  "created_at": "2026-07-24T02:45:29Z",
+  "request_id": "directcmd-20260724T024636Z",
+  "created_at": "2026-07-24T02:46:36Z",
   "exit_code": 0,
-  "cipher_path": "responses/directop-20260724T024528Z-status.cms.b64",
-  "cipher_sha256": "7e97415a28ad29a1092fd4de28fe580b3f7bb9b35bf667322ea737da323913d1",
+  "cipher_path": "responses/directcmd-20260724T024636Z.cms.b64",
+  "cipher_sha256": "3f01309c312b4c0d48142b090e8333574b409b94a11af967d78c109118d3fb60",
   "encrypted": true,
   "transport": "triggercmd-parameter"
 }
