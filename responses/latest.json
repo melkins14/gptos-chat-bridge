@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "request_id": "readable-20260724T012503Z-91a019",
-  "created_at": "2026-07-24T01:25:03Z",
-  "mode": "probe",
+  "request_id": "readable-20260724T013132Z-9ff145",
+  "created_at": "2026-07-24T01:31:32Z",
+  "mode": "status",
   "exit_code": 0,
-  "cipher_path": "responses/readable-20260724T012503Z-91a019.cms.b64",
-  "cipher_sha256": "8d321d0748957896b289870d0d45dec3af6b489e20f36cc4d43b9af7324e4fc9",
+  "cipher_path": "responses/readable-20260724T013132Z-9ff145.cms.b64",
+  "cipher_sha256": "63a7fb44aa26dfd51854b4e4b89571c9bc0d25018f2be174601764c05cecdf68",
   "encrypted": true,
   "transport": "readable-triggercmd-command"
 }
