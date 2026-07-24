@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "request_id": "directcmd-20260724T041924Z",
+  "created_at": "2026-07-24T04:19:24Z",
+  "exit_code": 0,
+  "cipher_path": "responses/directcmd-20260724T041924Z.cms.b64",
+  "cipher_sha256": "369c4815321d00bfb7fb68a6687cbc518872d5b204874e614535d899d40a036f",
+  "encrypted": true,
+  "transport": "triggercmd-parameter"
+}
