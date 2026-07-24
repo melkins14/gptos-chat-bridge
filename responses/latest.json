@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "request_id": "directcmd-20260724T083615Z",
-  "created_at": "2026-07-24T09:06:15Z",
-  "exit_code": 124,
-  "cipher_path": "responses/directcmd-20260724T083615Z.cms.b64",
-  "cipher_sha256": "434123a0ba177af04648c7c81c0d0c69b0b3ad42654f08fa218d15adef55e96f",
+  "request_id": "directcmd-20260724T090811Z",
+  "created_at": "2026-07-24T09:08:11Z",
+  "exit_code": 0,
+  "cipher_path": "responses/directcmd-20260724T090811Z.cms.b64",
+  "cipher_sha256": "fc754b1d5415dded0ad2eb220284010b8d88ce4b5065622ddab4aa44e4136724",
   "encrypted": true,
   "transport": "triggercmd-parameter"
 }
