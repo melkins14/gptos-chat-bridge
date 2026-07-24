@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "request_id": "readable-20260724T014000Z-edc4b5",
+  "created_at": "2026-07-24T01:40:00Z",
+  "mode": "status",
+  "exit_code": 0,
+  "cipher_path": "responses/readable-20260724T014000Z-edc4b5.cms.b64",
+  "cipher_sha256": "03f91e543988ff06bb0546ab6292a5e99e447a546c3a2c122ac28ba093cf6156",
+  "encrypted": true,
+  "transport": "readable-triggercmd-command"
+}
